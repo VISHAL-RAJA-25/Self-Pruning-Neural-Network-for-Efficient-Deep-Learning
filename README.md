@@ -35,12 +35,17 @@ Observations
 
 There is a clear trade-off between accuracy and sparsity.
 
-Visualizations
+## Visualizations
+
 The project includes:
-* Gate value distribution plots
-* Training loss curves
-* Accuracy vs sparsity trade-off
-* Per-layer sparsity analysis
+
+- Gate value distribution plots
+- Training loss curves
+- Accuracy vs sparsity trade-off
+- Per-layer sparsity analysis
+
+### Model Dashboard
+![Dashboard](results/dashboard.png)
 
 All results are available in the results folder.
 

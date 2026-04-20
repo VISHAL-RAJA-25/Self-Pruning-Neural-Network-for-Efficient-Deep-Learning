@@ -1,0 +1,38 @@
+[
+  {
+    "lambda_val": 0.0001,
+    "test_accuracy_pct": 71.66,
+    "sparsity_pct": 0.0,
+    "per_layer_sparsity": {
+      "conv1": 0.0,
+      "conv2": 0.0,
+      "conv3": 0.0,
+      "fc1": 0.0,
+      "fc2": 0.0
+    }
+  },
+  {
+    "lambda_val": 0.001,
+    "test_accuracy_pct": 62.86,
+    "sparsity_pct": 51.41,
+    "per_layer_sparsity": {
+      "conv1": 15.509259700775146,
+      "conv2": 87.82009482383728,
+      "conv3": 59.81038212776184,
+      "fc1": 15.1275634765625,
+      "fc2": 23.945312201976776
+    }
+  },
+  {
+    "lambda_val": 0.01,
+    "test_accuracy_pct": 50.83,
+    "sparsity_pct": 0.0,
+    "per_layer_sparsity": {
+      "conv1": 0.0,
+      "conv2": 0.0,
+      "conv3": 0.0,
+      "fc1": 0.0,
+      "fc2": 0.0
+    }
+  }
+]
